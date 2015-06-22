@@ -7,4 +7,6 @@ lecX.X.X - Code shown during lectures with my added comments to help me to bette
 
 lecXprobX - My code for interactive exercises completed during each lecture and submitted for live checking
 
+labX.X - Code from interactive labs
+
 psetX - Problem sets that are submitted for grading
