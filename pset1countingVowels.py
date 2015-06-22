@@ -14,7 +14,7 @@
 # NOTE: for my development and testing am including the following raw_input
 # and definition of 's'. Comment out before submitting for grading
 # s = "azcbobobegghakl"
-s = "now is the time for all good men to come to the aid of their country"
+# s = "now is the time for all good men to come to the aid of their country"
 
 # Initialize numVowels and index
 numVowels = 0
