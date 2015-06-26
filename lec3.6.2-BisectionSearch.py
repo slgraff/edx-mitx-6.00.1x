@@ -11,7 +11,7 @@ ans = (high + low)/2.0  #Choose half of value x as starting guess
 while abs(ans**2 - x) >= epsilon:   #Too far apart
     print('low = ' + str(low) + ' high = ' + str(high) + ' ans = ' + str(ans))
     numGuesses += 1
-    if ans**2 < x: 
+    if ans**2 < x:
         low = ans  #Change low to ans (increasing it)
     else:
         high = ans   #Change high to ans (reducing it)
