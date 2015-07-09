@@ -8,8 +8,12 @@
 # For this code, when testing for 'ab', the program erroneously says that this
 # is a palindrome. We need to find out why this is occurring. 
 
+# I've noted the debugging steps using 1st, 2nd, 3rd... to note the order of the
+# performed debugging steps
+
 def isPal(x):
     assert type(x) == list
+    # 5th - after fixing below line, code works correctly
     temp = x[:]
     # 4th - insert print statment here
     # Result is still the same, problem is determined to be with reverse
