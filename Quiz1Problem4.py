@@ -17,6 +17,8 @@
 # logarithm, def.: a quantity representing the power to which a fixed number
 # (the base) must be raised to produce a given number.
 
+# Garbage comment
+
 def myLog(x, b):
     '''
     x: a positive integer
